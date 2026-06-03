@@ -1,114 +1,93 @@
 [
     {
         "id": 1,
-        "anime": "Disney Twisted-Wonderland: The Animation - Episode of Heartslabyul",
-        "name": "Obedience by Natsuki Hanae, Seiichirou Yamashita, Chiaki Kobayashi, Tatsuyuki Kobayashi, Ryouta Suzuki",
-        "video": "https://eudist.animemusicquiz.com/ufi4isyaz4vm2pir.webm",
-        "mp3": "https://eudist.animemusicquiz.com/sgobd5.mp3"
+        "anime": "Ookiku Furikabutte: Natsu no Taikai-hen",
+        "name": "Natsuzora by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/6ch7kh.webm",
+        "mp3": "https://naedist.animemusicquiz.com/iad6us.mp3"
     },
     {
         "id": 2,
-        "anime": "Eikyuu Shounen: Eternal Boys",
-        "name": "FRIENDS by Story of Love",
-        "video": "https://eudist.animemusicquiz.com/w4uy39.webm",
-        "mp3": "https://eudist.animemusicquiz.com/d16nfu.mp3"
+        "anime": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.",
+        "name": "Aoi Shiori by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/vkay2g.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1iu7vv.mp3"
     },
     {
         "id": 3,
-        "anime": "Eikyuu Shounen: Eternal Boys",
-        "name": "Story of Love by Story of Love",
-        "video": "https://eudist.animemusicquiz.com/rbglxw.webm",
-        "mp3": "https://eudist.animemusicquiz.com/tq21yz.mp3"
+        "anime": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai. Movie",
+        "name": "Circle Game by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/qh0ug8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/iw7w2e.mp3"
     },
     {
         "id": 4,
-        "anime": "Cool Doji Danshi",
-        "name": "Flash! by PICG",
-        "video": "https://eudist.animemusicquiz.com/xsmwfh.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wbperu.mp3"
+        "anime": "Kidou Senshi Gundam AGE",
+        "name": "Asu e by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/m2sqg7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zdvnh6.mp3"
     },
     {
         "id": 5,
-        "anime": "Cool Doji Danshi",
-        "name": "Taisetsu by PICG",
-        "video": "https://eudist.animemusicquiz.com/smw11x.webm",
-        "mp3": "https://eudist.animemusicquiz.com/fg11t0.mp3"
+        "anime": "Hamatora",
+        "name": "FLAT by livetune adding Yuuki Ozaki (from Galileo Galilei)",
+        "video": "https://naedist.animemusicquiz.com/mmfxj1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/yfli89.mp3"
     },
     {
         "id": 6,
-        "anime": "SK∞ OVA: Extra Part",
-        "name": "SKATERS' QUEST by Tasuku Hatanaka・Chiaki Kobayashi",
-        "video": "https://eudist.animemusicquiz.com/ckigu9.webm",
-        "mp3": "https://eudist.animemusicquiz.com/84zui8.mp3"
+        "anime": "Zankyou no Terror",
+        "name": "Trigger by Yuuki Ozaki(from Galileo Galilei)",
+        "video": "https://naedist.animemusicquiz.com/heu2fw.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zhzj39.mp3"
     },
     {
         "id": 7,
-        "anime": "Eikyuu Shounen: Eternal Boys Next Stage",
-        "name": "PERFECT WORLD by Story of Love",
-        "video": "https://eudist.animemusicquiz.com/z11mxu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/tf4fra.mp3"
+        "anime": "Magic Kaito 1412",
+        "name": "Koi no Jumyou by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/mu21b5.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qeutwk.mp3"
     },
     {
         "id": 8,
-        "anime": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-        "name": "Magical Love by Chiaki Kobayashi・Ryouta Suzuki",
-        "video": "https://eudist.animemusicquiz.com/wrsfyk.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ixf1d0.mp3"
+        "anime": "Haikyuu!! Second Season",
+        "name": "Climber by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/7twva1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/3nc5cv.mp3"
     },
     {
         "id": 9,
-        "anime": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-        "name": "Magical Love (Adachi Solo Guitar Ver) by Chiaki Kobayashi",
-        "video": "https://eudist.animemusicquiz.com/n7e4t5.webm",
-        "mp3": "https://eudist.animemusicquiz.com/mjmga1.mp3"
+        "anime": "Doukyuusei",
+        "name": "Doukyuusei by Kotaro Oshio with Yuuki Ozaki (from Galileo Galilei)",
+        "video": "https://naedist.animemusicquiz.com/zx8pin.webm",
+        "mp3": "https://naedist.animemusicquiz.com/24pyvw.mp3"
     },
     {
         "id": 10,
-        "anime": "30-sai made Doutei da to Mahoutsukai ni Nareru Rashii Tokubetsu Henshuu-ban",
-        "name": "Love Candle by Chiaki Kobayashi・Ryouta Suzuki・Makoto Furukawa・Gen Satou",
-        "video": "https://eudist.animemusicquiz.com/wc7v9v.webm",
-        "mp3": "https://eudist.animemusicquiz.com/4v5yo3ui1buotw2b.mp3"
+        "anime": "Taifuu no Noruda",
+        "name": "Arashi no Ato de by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/0q2kc8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/7hh2kl.mp3"
     },
     {
         "id": 11,
-        "anime": "Hikaru ga Shinda Natsu",
-        "name": "Hibi no Kage by Chiaki Kobayashi・Shuichiro Umeda",
-        "video": "https://eudist.animemusicquiz.com/hwxll6.webm",
-        "mp3": "https://eudist.animemusicquiz.com/m5v81pb0d0zu76kj.mp3"
+        "anime": "Boruto: Naruto Next Generations",
+        "name": "Laika by Bird Bear Hare and Fish",
+        "video": "https://naedist.animemusicquiz.com/mdtim0.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ikeuse.mp3"
     },
     {
         "id": 12,
-        "anime": "Princession Orchestra",
-        "name": "Shimei wa Akaki Serenade by Band Snatch",
-        "video": "https://eudist.animemusicquiz.com/8ed4n1ghmfytc0rb.webm",
-        "mp3": "https://eudist.animemusicquiz.com/rz5svv.mp3"
+        "anime": "Ao no Orchestra Season 2",
+        "name": "Amadeus by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/lu04wltuec5wco4p.webm",
+        "mp3": "https://naedist.animemusicquiz.com/5ehpk2.mp3"
     },
     {
         "id": 13,
-        "anime": "Princession Orchestra",
-        "name": "LEGENDARY REVIVAL by Band Snatch",
-        "video": "https://eudist.animemusicquiz.com/xovoih1x8ebcueh5.webm",
-        "mp3": "https://eudist.animemusicquiz.com/83xm2m.mp3"
-    },
-    {
-        "id": 14,
-        "anime": "Princession Orchestra",
-        "name": "Escort Diamond by Chiaki Kobayashi",
-        "video": "https://eudist.animemusicquiz.com/jnd5nbqifx6jdbum.webm",
-        "mp3": "https://eudist.animemusicquiz.com/m5bcb5.mp3"
-    },
-    {
-        "id": 15,
-        "anime": "Princession Orchestra",
-        "name": "Perfect Showdown! by Band Snatch",
-        "video": "https://eudist.animemusicquiz.com/hflgscqc3b6wnioc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/106m9yd6co6siig2.mp3"
-    },
-    {
-        "id": 16,
-        "anime": "Princession Orchestra",
-        "name": "Shimei wa Akaki Serenade -Ver. First Blood- by Chiaki Kobayashi",
-        "video": "https://eudist.animemusicquiz.com/pnq1wi6enov16ohb.webm",
-        "mp3": "https://eudist.animemusicquiz.com/txb6r7.mp3"
+        "anime": "Kujima Utaeba Ie Hororo",
+        "name": "Komorebi-zaka by Galileo Galilei",
+        "video": "https://naedist.animemusicquiz.com/kndkjk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/d0jbdn.mp3"
     }
 ]
