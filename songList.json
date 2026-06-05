@@ -1,93 +1,37 @@
 [
     {
         "id": 1,
-        "anime": "Ookiku Furikabutte: Natsu no Taikai-hen",
-        "name": "Natsuzora by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/6ch7kh.webm",
-        "mp3": "https://naedist.animemusicquiz.com/iad6us.mp3"
+        "anime": "Golden Kamuy",
+        "name": "Hibana by THE SIXTH LIE",
+        "video": "https://eudist.animemusicquiz.com/u0u4mz.webm",
+        "mp3": "https://eudist.animemusicquiz.com/1yg2gg.mp3"
     },
     {
         "id": 2,
-        "anime": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.",
-        "name": "Aoi Shiori by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/vkay2g.webm",
-        "mp3": "https://naedist.animemusicquiz.com/1iu7vv.mp3"
+        "anime": "Toaru Kagaku no Accelerator",
+        "name": "Shadow is the Light by THE SIXTH LIE",
+        "video": "https://eudist.animemusicquiz.com/rj28m5.webm",
+        "mp3": "https://eudist.animemusicquiz.com/cmijaj.mp3"
     },
     {
         "id": 3,
-        "anime": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai. Movie",
-        "name": "Circle Game by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/qh0ug8.webm",
-        "mp3": "https://naedist.animemusicquiz.com/iw7w2e.mp3"
+        "anime": "Golden Kamuy",
+        "name": "Yuusetsu by THE SIXTH LIE",
+        "video": "https://eudist.animemusicquiz.com/cqx0uu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/xvluki.mp3"
     },
     {
         "id": 4,
-        "anime": "Kidou Senshi Gundam AGE",
-        "name": "Asu e by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/m2sqg7.webm",
-        "mp3": "https://naedist.animemusicquiz.com/zdvnh6.mp3"
+        "anime": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+        "name": "LEVEL by Nagi Yanagi×THE SIXTH LIE",
+        "video": "https://eudist.animemusicquiz.com/rrbnie.webm",
+        "mp3": "https://eudist.animemusicquiz.com/tvsyj6.mp3"
     },
     {
         "id": 5,
-        "anime": "Hamatora",
-        "name": "FLAT by livetune adding Yuuki Ozaki (from Galileo Galilei)",
-        "video": "https://naedist.animemusicquiz.com/mmfxj1.webm",
-        "mp3": "https://naedist.animemusicquiz.com/yfli89.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Zankyou no Terror",
-        "name": "Trigger by Yuuki Ozaki(from Galileo Galilei)",
-        "video": "https://naedist.animemusicquiz.com/heu2fw.webm",
-        "mp3": "https://naedist.animemusicquiz.com/zhzj39.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Magic Kaito 1412",
-        "name": "Koi no Jumyou by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/mu21b5.webm",
-        "mp3": "https://naedist.animemusicquiz.com/qeutwk.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Haikyuu!! Second Season",
-        "name": "Climber by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/7twva1.webm",
-        "mp3": "https://naedist.animemusicquiz.com/3nc5cv.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Doukyuusei",
-        "name": "Doukyuusei by Kotaro Oshio with Yuuki Ozaki (from Galileo Galilei)",
-        "video": "https://naedist.animemusicquiz.com/zx8pin.webm",
-        "mp3": "https://naedist.animemusicquiz.com/24pyvw.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Taifuu no Noruda",
-        "name": "Arashi no Ato de by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/0q2kc8.webm",
-        "mp3": "https://naedist.animemusicquiz.com/7hh2kl.mp3"
-    },
-    {
-        "id": 11,
-        "anime": "Boruto: Naruto Next Generations",
-        "name": "Laika by Bird Bear Hare and Fish",
-        "video": "https://naedist.animemusicquiz.com/mdtim0.webm",
-        "mp3": "https://naedist.animemusicquiz.com/ikeuse.mp3"
-    },
-    {
-        "id": 12,
-        "anime": "Ao no Orchestra Season 2",
-        "name": "Amadeus by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/lu04wltuec5wco4p.webm",
-        "mp3": "https://naedist.animemusicquiz.com/5ehpk2.mp3"
-    },
-    {
-        "id": 13,
-        "anime": "Kujima Utaeba Ie Hororo",
-        "name": "Komorebi-zaka by Galileo Galilei",
-        "video": "https://naedist.animemusicquiz.com/kndkjk.webm",
-        "mp3": "https://naedist.animemusicquiz.com/d0jbdn.mp3"
+        "anime": "Grisaia: Phantom Trigger",
+        "name": "Crossverse by THE SIXTH LIE",
+        "video": "https://eudist.animemusicquiz.com/om3m4b.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ey24gu.mp3"
     }
 ]
