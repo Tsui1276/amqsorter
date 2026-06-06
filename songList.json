@@ -1,37 +1,79 @@
 [
     {
         "id": 1,
-        "anime": "Golden Kamuy",
-        "name": "Hibana by THE SIXTH LIE",
-        "video": "https://eudist.animemusicquiz.com/u0u4mz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/1yg2gg.mp3"
+        "anime": "Code Geass: Lelouch of the Rebellion R2",
+        "name": "Z.E.R.O. by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/dtloou.webm",
+        "mp3": "https://naedist.animemusicquiz.com/888r93.mp3"
     },
     {
         "id": 2,
-        "anime": "Toaru Kagaku no Accelerator",
-        "name": "Shadow is the Light by THE SIXTH LIE",
-        "video": "https://eudist.animemusicquiz.com/rj28m5.webm",
-        "mp3": "https://eudist.animemusicquiz.com/cmijaj.mp3"
+        "anime": "Gintama°",
+        "name": "DAY×DAY by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/g23trg.webm",
+        "mp3": "https://naedist.animemusicquiz.com/o1o785.mp3"
     },
     {
         "id": 3,
-        "anime": "Golden Kamuy",
-        "name": "Yuusetsu by THE SIXTH LIE",
-        "video": "https://eudist.animemusicquiz.com/cqx0uu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/xvluki.mp3"
+        "anime": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "name": "Survivor by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/6ez172.webm",
+        "mp3": "https://naedist.animemusicquiz.com/iamsuv.mp3"
     },
     {
         "id": 4,
-        "anime": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
-        "name": "LEVEL by Nagi Yanagi×THE SIXTH LIE",
-        "video": "https://eudist.animemusicquiz.com/rrbnie.webm",
-        "mp3": "https://eudist.animemusicquiz.com/tvsyj6.mp3"
+        "anime": "Gintama.",
+        "name": "VS by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/orroac.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dhefqt.mp3"
     },
     {
         "id": 5,
-        "anime": "Grisaia: Phantom Trigger",
-        "name": "Crossverse by THE SIXTH LIE",
-        "video": "https://eudist.animemusicquiz.com/om3m4b.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ey24gu.mp3"
+        "anime": "Banana Fish",
+        "name": "FREEDOM by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/8xbjcr.webm",
+        "mp3": "https://naedist.animemusicquiz.com/53yayr.mp3"
+    },
+    {
+        "id": 6,
+        "anime": "Ahiru no Sora",
+        "name": "Humming Bird by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/hwjlax.webm",
+        "mp3": "https://naedist.animemusicquiz.com/e534ci.mp3"
+    },
+    {
+        "id": 7,
+        "anime": "My Hero Academia",
+        "name": "Polaris by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/ie4vzd.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xcp2q4.mp3"
+    },
+    {
+        "id": 8,
+        "anime": "Mix: Meisei Story Season 2",
+        "name": "Amaryllis by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/869p5o.webm",
+        "mp3": "https://naedist.animemusicquiz.com/i019yv.mp3"
+    },
+    {
+        "id": 9,
+        "anime": "Rising Impact",
+        "name": "gifted by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/1f6pcl.webm",
+        "mp3": "https://naedist.animemusicquiz.com/pd3wbm.mp3"
+    },
+    {
+        "id": 10,
+        "anime": "Baban Baban Ban Vampire",
+        "name": "Bloody Liar by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/47m5z3.webm",
+        "mp3": "https://naedist.animemusicquiz.com/l9380j.mp3"
+    },
+    {
+        "id": 11,
+        "anime": "Yaiba: Samurai Legend",
+        "name": "BLADE by BLUE ENCOUNT",
+        "video": "https://naedist.animemusicquiz.com/qo32bx.webm",
+        "mp3": "https://naedist.animemusicquiz.com/wj7qx6.mp3"
     }
 ]
