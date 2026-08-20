@@ -1,163 +1,358 @@
 [
     {
         "id": 1,
-        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan ",
-        "name": "the Fourth Avenue Cafe by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/48qnk6.webm",
-        "mp3": "https://naedist.animemusicquiz.com/er7wi2.mp3"
+        "anime": "Higurashi no Naku Koro ni",
+        "name": "Higurashi no Naku Koro ni by Eiko Shimamiya",
+        "video": "https://naedist.animemusicquiz.com/3czpgu.webm",
+        "mp3": "https://naedist.animemusicquiz.com/50gq0p.mp3"
     },
     {
         "id": 2,
-        "anime": "Great Teacher Onizuka",
-        "name": "Driver's High by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/l3yi36.webm",
-        "mp3": "https://naedist.animemusicquiz.com/9wpiyn.mp3"
+        "anime": "Higurashi no Naku Koro ni",
+        "name": "why, or why not by Rekka Katakiri",
+        "video": "https://naedist.animemusicquiz.com/69phlq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6f66qv.mp3"
     },
     {
         "id": 3,
-        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Requiem",
-        "name": "Niji by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/szo2yc.webm",
-        "mp3": "https://naedist.animemusicquiz.com/tntfq8.mp3"
+        "anime": "Higurashi no Naku Koro ni Kai",
+        "name": "Naraku no Hana by Eiko Shimamiya",
+        "video": "https://naedist.animemusicquiz.com/6gww6w.webm",
+        "mp3": "https://naedist.animemusicquiz.com/81991h.mp3"
     },
     {
         "id": 4,
-        "anime": "DNA²",
-        "name": "Blurry Eyes by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/ut23fe.webm",
-        "mp3": "https://naedist.animemusicquiz.com/iiwn8b.mp3"
+        "anime": "Higurashi no Naku Koro ni Kai",
+        "name": "Taishou a by anNina",
+        "video": "https://naedist.animemusicquiz.com/ryrkfk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/gudb1y.mp3"
     },
     {
         "id": 5,
-        "anime": "Hagane no Renkinjutsushi",
-        "name": "READY STEADY GO by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/68l30h.webm",
-        "mp3": "https://naedist.animemusicquiz.com/ug4235.mp3"
+        "anime": "Higurashi no Naku Koro ni Rei",
+        "name": "Super scription of data by Eiko Shimamiya",
+        "video": "https://naedist.animemusicquiz.com/a04x4b.webm",
+        "mp3": "https://naedist.animemusicquiz.com/swvx6q.mp3"
     },
     {
         "id": 6,
-        "anime": "Final Fantasy: The Spirits Within",
-        "name": "Spirit dreams inside by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/9ln73a.webm",
-        "mp3": "https://naedist.animemusicquiz.com/byhgcm.mp3"
+        "anime": "Higurashi no Naku Koro ni Rei",
+        "name": "Manazashi by anNina",
+        "video": "https://naedist.animemusicquiz.com/6r79gv.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ut9prc.mp3"
     },
     {
         "id": 7,
-        "anime": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
-        "name": "Link by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/o3dxw3.webm",
-        "mp3": "https://naedist.animemusicquiz.com/ju4lhf.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "Happy! Lucky! Dochy! by Yukari Tamura・Mika Kanai・Yui Horie",
+        "video": "https://naedist.animemusicquiz.com/60gvcl.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dcdy78.mp3"
     },
     {
         "id": 8,
-        "anime": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
-        "name": "LOST HEAVEN by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/v33we4.webm",
-        "mp3": "https://naedist.animemusicquiz.com/nd7opp.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "Zendai Mimon☆Miracle Change by Mai Nakahara",
+        "video": "https://naedist.animemusicquiz.com/r5nj1e.webm",
+        "mp3": "https://naedist.animemusicquiz.com/tc6631.mp3"
     },
     {
         "id": 9,
-        "anime": "Blood+",
-        "name": "SEASON'S CALL by HYDE",
-        "video": "https://naedist.animemusicquiz.com/0qtjo8.webm",
-        "mp3": "https://naedist.animemusicquiz.com/628qxg.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "Tenshin Ranman☆Miracle Change by Yukari Tamura・Mika Kanai",
+        "video": "https://naedist.animemusicquiz.com/nkvlgt.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ritsws.mp3"
     },
     {
         "id": 10,
-        "anime": "Seirei no Moribito",
-        "name": "SHINE by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/4mw41a.webm",
-        "mp3": "https://naedist.animemusicquiz.com/qxfkth.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "Ishin Denshin☆Miracle Change by Satsuki Yukino",
+        "video": "https://naedist.animemusicquiz.com/5a9m8l.webm",
+        "mp3": "https://naedist.animemusicquiz.com/covuob.mp3"
     },
     {
         "id": 11,
-        "anime": "Kidou Senshi Gundam 00",
-        "name": "DAYBREAK'S BELL by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/sidmjw.webm",
-        "mp3": "https://naedist.animemusicquiz.com/r11ehs.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "Yuuki Rinrin☆Miracle Change by Yui Horie",
+        "video": "https://naedist.animemusicquiz.com/jskuio.webm",
+        "mp3": "https://naedist.animemusicquiz.com/8u3ul5.mp3"
     },
     {
         "id": 12,
-        "anime": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
-        "name": "GOOD LUCK MY WAY by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/tf0sj2.webm",
-        "mp3": "https://naedist.animemusicquiz.com/hlqcwd.mp3"
+        "anime": "Higurashi no Naku Koro ni Kira",
+        "name": "100% Magical Star☆ by Yukari Tamura・Mika Kanai・Yui Horie",
+        "video": "https://naedist.animemusicquiz.com/3nelqn.webm",
+        "mp3": "https://naedist.animemusicquiz.com/lyeobg.mp3"
     },
     {
         "id": 13,
-        "anime": "ReLIFE",
-        "name": "HONEY by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/d51xnm.webm",
-        "mp3": "https://naedist.animemusicquiz.com/39ceae.mp3"
+        "anime": "Higurashi no Naku Koro ni Kaku: Outbreak",
+        "name": "you -Visionen im Spiegel by Yuzuki",
+        "video": "https://naedist.animemusicquiz.com/ijoaiq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/g5tx9e.mp3"
     },
     {
         "id": 14,
-        "anime": "Shingeki no Kyojin Season 3",
-        "name": "Red Swan by YOSHIKI feat. HYDE",
-        "video": "https://naedist.animemusicquiz.com/ze5gw7.webm",
-        "mp3": "https://naedist.animemusicquiz.com/8o5s83.mp3"
+        "anime": "Higurashi no Naku Koro ni Gou",
+        "name": "I believe what you said by Asaka",
+        "video": "https://naedist.animemusicquiz.com/hhh0q3.webm",
+        "mp3": "https://naedist.animemusicquiz.com/56e0hn.mp3"
     },
     {
         "id": 15,
-        "anime": "Eiga Entotsu Machi no Poupelle",
-        "name": "HALLOWEEN PARTY -Poupelle Ver.- by HYDE",
-        "video": "https://naedist.animemusicquiz.com/py4guj.webm",
-        "mp3": "https://naedist.animemusicquiz.com/gbls0s.mp3"
+        "anime": "Higurashi no Naku Koro ni Gou",
+        "name": "Kamisama no Syndrome by Ayane",
+        "video": "https://naedist.animemusicquiz.com/u8xfyd.webm",
+        "mp3": "https://naedist.animemusicquiz.com/78a6jw.mp3"
     },
     {
         "id": 16,
-        "anime": "Mars Red",
-        "name": "ON MY OWN by HYDE",
-        "video": "https://naedist.animemusicquiz.com/jjbpr6.webm",
-        "mp3": "https://naedist.animemusicquiz.com/9imisr.mp3"
+        "anime": "Higurashi no Naku Koro ni Gou",
+        "name": "Fukisokusei Entropy by Ayane",
+        "video": "https://naedist.animemusicquiz.com/1q7tpk.webm",
+        "mp3": "https://naedist.animemusicquiz.com/cf5xex.mp3"
     },
     {
         "id": 17,
-        "anime": "Edens Zero",
-        "name": "FOREVER by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/krnciq.webm",
-        "mp3": "https://naedist.animemusicquiz.com/vfendi.mp3"
+        "anime": "Higurashi no Naku Koro ni Gou",
+        "name": "Orange-iro no Kaze by Yukari Tamura・Mika Kanai",
+        "video": "https://naedist.animemusicquiz.com/ft5bz4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/860dlo.mp3"
     },
     {
         "id": 18,
-        "anime": "Beyblade X",
-        "name": "YOU GOTTA RUN by L'Arc~en~Ciel",
-        "video": "https://naedist.animemusicquiz.com/zi1moj.webm",
-        "mp3": "https://naedist.animemusicquiz.com/lk7f1w.mp3"
+        "anime": "Higurashi no Naku Koro ni Sotsu",
+        "name": "Analogy by Ayane",
+        "video": "https://naedist.animemusicquiz.com/n1zba6.webm",
+        "mp3": "https://naedist.animemusicquiz.com/0u280i.mp3"
     },
     {
         "id": 19,
-        "anime": "Kimetsu no Yaiba: Hashira Geiko-hen",
-        "name": "Mugen by MY FIRST STORY×HYDE",
-        "video": "https://naedist.animemusicquiz.com/3fa2xg.webm",
-        "mp3": "https://naedist.animemusicquiz.com/45qqc7.mp3"
+        "anime": "Higurashi no Naku Koro ni Sotsu",
+        "name": "Missing Promise by Konomi Suzuki",
+        "video": "https://naedist.animemusicquiz.com/j9lqgr.webm",
+        "mp3": "https://naedist.animemusicquiz.com/58u0hk.mp3"
     },
     {
         "id": 20,
-        "anime": "Kimetsu no Yaiba: Hashira Geiko-hen",
-        "name": "Tokoshie by HYDE×MY FIRST STORY",
-        "video": "https://naedist.animemusicquiz.com/mep89q.webm",
-        "mp3": "https://naedist.animemusicquiz.com/6f96hw.mp3"
+        "anime": "Higurashi no Naku Koro ni Sotsu",
+        "name": "you-Sotsugyou- by Eiko Shimamiya",
+        "video": "https://naedist.animemusicquiz.com/3nf0mq.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zc4jbb.mp3"
     },
     {
         "id": 21,
-        "anime": "Gensoumaden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka",
-        "name": "TIGHTROPE by TETSU69",
-        "video": "https://naedist.animemusicquiz.com/e8649p.webm",
-        "mp3": "https://naedist.animemusicquiz.com/x90wj4.mp3"
+        "anime": "Higurashi no Naku Koro ni",
+        "name": "Sora no Mukou by Sora Yuizuki",
+        "video": "https://files.catbox.moe/8x8nwb.webm",
+        "mp3": ""
     },
     {
         "id": 22,
-        "anime": "Heroman",
-        "name": "Roulette by TETSUYA",
-        "video": "https://naedist.animemusicquiz.com/lsxlnz.webm",
-        "mp3": "https://naedist.animemusicquiz.com/u4sloj.mp3"
+        "anime": "Higurashi no Naku Koro ni Matsuri",
+        "name": "Nageki no Mori by Ayane",
+        "video": "https://files.catbox.moe/rg700c.mp4",
+        "mp3": ""
     },
     {
         "id": 23,
-        "anime": "Shinkansen Henkei Robo Shinkalion The Animation",
-        "name": "I WANNA BE WITH YOU by TETSUYA",
-        "video": "https://naedist.animemusicquiz.com/tsfarl.webm",
-        "mp3": "https://naedist.animemusicquiz.com/dwqshe.mp3"
+        "anime": "Higurashi no Naku Koro ni Matsuri: Miotsukushi-hen",
+        "name": "Complex Image by Ayane",
+        "video": "https://youtu.be/UNqk9jU9MKg?si=HvBURdAfuawq9ihu",
+        "mp3": ""
+    },
+    {
+        "id": 24,
+        "anime": "Higurashi no Naku Koro ni Matsuri: Miotsukushi-hen",
+        "name": "Friend by Kanako Itou",
+        "video": "https://files.catbox.moe/hkyzgd.mp4",
+        "mp3": ""
+    },
+    {
+        "id": 25,
+        "anime": "Higurashi no Naku Koro ni Matsuri: Tsumihoroboshi-hen",
+        "name": "Escape by Kanako Itou",
+        "video": "https://files.catbox.moe/r7fkho.mp4",
+        "mp3": ""
+    },
+    {
+        "id": 26,
+        "anime": "Higurashi no Naku Koro ni Matsuri: Meakashi-hen",
+        "name": "you by Satsuki Yukino",
+        "video": "https://files.catbox.moe/ggpusa.mp4",
+        "mp3": ""
+    },
+    {
+        "id": 27,
+        "anime": "Higurashi no Naku Koro ni Hou: Meakashi-hen",
+        "name": "you -2014 Remix Thanks/you Ver. by Yuzuki",
+        "video": "https://files.catbox.moe/jvat77.webm",
+        "mp3": ""
+    },
+    {
+        "id": 28,
+        "anime": "Higurashi no Naku Koro ni Hou (Switch)",
+        "name": "Bokutachi wa Mou Shitteru by Yumi Matsuzawa",
+        "video": "https://files.catbox.moe/s1fbp1.webm",
+        "mp3": ""
+    },
+    {
+        "id": 29,
+        "anime": "Higurashi no Naku Koro ni Hou (PC)",
+        "name": "Ano Hi e by Yuzuki",
+        "video": "https://youtu.be/Rm8skBieGeQ?si=rUK40Y0NWIrjJJED",
+        "mp3": ""
+    },
+    {
+        "id": 30,
+        "anime": "Higurashi no Naku Koro ni Hou: Grand",
+        "name": "Ano Hi e -Haru Sakura- by Nei Kino",
+        "video": "https://files.catbox.moe/zl54zl.webm",
+        "mp3": ""
+    },
+    {
+        "id": 31,
+        "anime": "Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo",
+        "name": "Zenmou Cast -ACT2- by Gekijou Tenor",
+        "video": "https://files.catbox.moe/s81j11.webm",
+        "mp3": ""
+    },
+    {
+        "id": 32,
+        "anime": "Higurashi no Naku Koro ni Hou: Kamikashimashi",
+        "name": "Higurashi Breakout! by Pomexgranate.",
+        "video": "https://files.catbox.moe/ck8j5f.webm",
+        "mp3": ""
+    },{
+        "id": 33,
+        "anime": "Higurashi no Naku Koro ni Hou: Kamikashimashi",
+        "name": "Sora no Mukou -yours ver- by Sora Yuizuki",
+        "video": "https://files.catbox.moe/bojzmv.webm",
+        "mp3": ""
+    },
+    {
+        "id": 34,
+        "anime": "Higurashi no Naku Koro ni Hou: Origin (Switch)",
+        "name": "OriginalZ by Zakuro Motoki",
+        "video": "https://youtu.be/XFaWEnumtlg?si=yxep_1dgO5uNy9IJ",
+        "mp3": ""
+    },
+    {
+        "id": 35,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Tatari (DS)",
+        "name": "Tsuisou no Despair by Kanako Itou",
+        "video": "https://youtu.be/tyJPZbx-9QI?si=GM9hy76d1qS8pZ8U",
+        "mp3": ""
+    },
+    {
+        "id": 36,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Sou (DS)",
+        "name": "Place of Period by Mio Isayama",
+        "video": "https://files.catbox.moe/55ed7u.webm",
+        "mp3": ""
+    },
+    {
+        "id": 37,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Rasen (DS)",
+        "name": "Hikari no Sora no Qualia by Cyua",
+        "video": "https://files.catbox.moe/p8ql90.mp4",
+        "mp3": ""
+    },
+    {
+        "id": 38,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Rasen (DS)",
+        "name": "Shikkoku no Saidan by Velforest",
+        "video": "https://files.catbox.moe/qn2d5r.webm",
+        "mp3": ""
+    },
+    {
+        "id": 39,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Kizuna (DS)",
+        "name": "Angelic Bright by Ayane",
+        "video": "https://youtu.be/4nVt_-RJFj4?si=rvOEV1vkh-AWWeOD",
+        "mp3": ""
+    },
+    {
+        "id": 40,
+        "anime": "Higurashi no Naku Koro ni Kizuna: Kizuna (DS)",
+        "name": "Tada Nagaruru Mama ni by Ayane",
+        "video": "https://files.catbox.moe/bzrdwn.webm",
+        "mp3": ""
+    },
+    {
+        "id": 41,
+        "anime": "Higurashi no Naku Koro ni Sui (PS3)",
+        "name": "SideEffect by Kanako Itou",
+        "video": "https://files.catbox.moe/yvkja2.webm",
+        "mp3": ""
+    },
+    {
+        "id": 42,
+        "anime": "Higurashi no Naku Koro ni Sui (PSVita)",
+        "name": "Ascension by Kanako Itou & Ayane",
+        "video": "https://files.catbox.moe/edf5mz.webm",
+        "mp3": ""
+    },
+    {
+        "id": 43,
+        "anime": "Higurashi no Naku Koro ni Sui (PS3/PSVita)",
+        "name": "Hitotsu no Inochi by Emi Uema",
+        "video": "https://files.catbox.moe/7qw145.webm",
+        "mp3": ""
+    },
+    {
+        "id": 44,
+        "anime": "Higurashi Daybreak (PC/PSP)",
+        "name": "Sono Saki ni Aru, Dareka no Egao no Tame ni by Ayane",
+        "video": "https://files.catbox.moe/y5pelq.webm",
+        "mp3": ""
+    },
+    {
+        "id": 45,
+        "anime": "Higurashi no Naku Koro ni Jan",
+        "name": "Kuroi Hana by Yui Sakakibara",
+        "video": "https://files.catbox.moe/84k4s8.webm",
+        "mp3": ""
+    },
+    {
+        "id": 46,
+        "anime": "Higurashi no Naku Koro ni Jan",
+        "name": "Anata wa Watashi no Kagami by Local Bus",
+        "video": "https://files.catbox.moe/zf6d30.webm",
+        "mp3": ""
+    },
+    {
+        "id": 47,
+        "anime": "Higurashi no Naku Koro ni Mei (iOS/Android)",
+        "name": "Frustration by Ayane",
+        "video": "https://youtu.be/nWZHYSOYsWQ?si=mCUSthCipCEqzpyg",
+        "mp3": ""
+    },
+    {
+        "id": 48,
+        "anime": "Higurashi no Naku Koro ni Live-Action",
+        "name": "WHEEL OF FORTUNE (Unmei no Wa) by Eiko Shimamiya",
+        "video": "https://youtu.be/gsXZsX3-s4Y?si=bc35yAvyM4mTUjCu",
+        "mp3": ""
+    },
+    {
+        "id": 49,
+        "anime": "Higurashi no Naku Koro ni Live-Action",
+        "name": "Diorama by Eiko Shimamiya",
+        "video": "https://youtu.be/MW_Ndi_lNz4?si=k0VGE78WkS6F2GiC",
+        "mp3": ""
+    },
+    {
+        "id": 50,
+        "anime": "Higurashi no Naku Koro ni Chikai",
+        "name": "Chikai by Eiko Shimamiya",
+        "video": "https://youtu.be/Xsj-JNR276A?si=liVgRWK_N9ALCtlj",
+        "mp3": ""
+    },
+    {
+        "id": 51,
+        "anime": "Higurashi no Naku Koro ni (2016)",
+        "name": "Kimi wa Doko ni Iru? by NGT48",
+        "video": "https://youtu.be/pWZw8n1PJbc?si=DJV3oJxKfg7oMR_w",
+        "mp3": ""
     }
 ]
