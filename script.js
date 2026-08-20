@@ -60,6 +60,28 @@ function configureLoadButton() {
     }
 }
 
+function getYouTubeId(url) {
+    try {
+        const parsed = new URL(url);
+        const host = parsed.hostname.replace(/^www\./, "");
+        if (host === "youtu.be") {
+            return parsed.pathname.split("/")[1] || null;
+        }
+        if (host === "youtube.com" || host === "m.youtube.com" || host === "music.youtube.com" || host === "youtube-nocookie.com") {
+            if (parsed.searchParams.get("v")) {
+                return parsed.searchParams.get("v");
+            }
+            const match = parsed.pathname.match(/^\/(?:embed|shorts|v|live)\/([^/?]+)/);
+            if (match) {
+                return match[1];
+            }
+        }
+    } catch (e) {
+        // Not a valid URL
+    }
+    return null;
+}
+
 function showDuel(id1, id2) {
     const duelContainer = document.getElementById('duel');
     duelContainer.innerHTML = "";
@@ -72,15 +94,16 @@ function showDuel(id1, id2) {
 
         if (!music.video && !music.mp3) {
             videoElement = "<div>Video and MP3 not available</div>";
-        } else if (music.video && (video || music.mp3 === null)) {
-            if (music.video.includes("youtube.com")) {
-                const videoId = new URL(music.video).searchParams.get("v");
-                videoElement = `<iframe src="https://www.youtube-nocookie.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>`;
+        } else if (music.video && (video || !music.mp3)) {
+            const youtubeId = getYouTubeId(music.video);
+            if (youtubeId) {
+                videoElement = `<iframe src="https://www.youtube-nocookie.com/embed/${youtubeId}" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
             } else if (music.video.endsWith(".webm") || music.video.endsWith(".mp4")) {
+                const videoType = music.video.endsWith(".mp4") ? "video/mp4" : "video/webm";
                 if (music.video.includes("animemusicquiz")) {
-                    videoElement = `<video controls><source src="https://${region}dist.animemusicquiz.com/${music.video.split('/').pop()}" type="video/webm"></video>`;
+                    videoElement = `<video controls><source src="https://${region}dist.animemusicquiz.com/${music.video.split('/').pop()}" type="${videoType}"></video>`;
                 } else {
-                    videoElement = `<video controls><source src="${music.video}" type="video/webm"></video>`;
+                    videoElement = `<video controls><source src="${music.video}" type="${videoType}"></video>`;
                 }
             } else {
                 videoElement = "<div>Vidéo non disponible</div>";
